@@ -1,4 +1,4 @@
-![Banner]("./background.png")
+<img alt="Coding" style="border-radius:16px;" src="./background.png">
 
 <h1 align="center">Hi there! 👋 I'm Muhammad Hamid Raza</h1>
 <h3 align="center">A Passionate Full-Stack Developer | React | Node.js | MongoDB | Next.js</h3>
