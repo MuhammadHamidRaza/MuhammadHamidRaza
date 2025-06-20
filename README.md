@@ -64,18 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhamidraza&show_icons=true&theme=radical&hide_border=true" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamidraza&layout=compact&theme=radical&hide_border=true" width="400"/>
-</p>
-
----
-
 ## 🎓 Education
 
 **Graduation**  
