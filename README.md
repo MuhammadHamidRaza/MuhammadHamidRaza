@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB¢er=true&vCenter=true&width=800&lines=Hello,+I'm+Muhammad+Hamid+Raza!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Hello,+I'm+Muhammad+Hamid+Raza!" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Crafting Scalable Web Solutions & Intelligent AI Agents with MERN • React • Node.js • MongoDB • Next.js • OpenAI Agents SDK</h3>
@@ -13,7 +13,7 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/hamid-raza-b249162a8" target="_blank">
+ <a href="https://linkedin.com/in/hamid-raza-b249162a8" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
    
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
----
+
 
 ## 🎓 Education
 
