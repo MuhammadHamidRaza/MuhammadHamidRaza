@@ -1,11 +1,8 @@
-# Muhammad Hamid Raza  
-**MERN Stack Developer**
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Hello,+I'm+Muhammad+Hamid+Raza!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB¢er=true&vCenter=true&width=800&lines=Hello,+I'm+Muhammad+Hamid+Raza!" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Crafting Scalable Web Solutions with MERN • React • Node.js • MongoDB • Next.js</h3>
+<h3 align="center">Crafting Scalable Web Solutions & Intelligent AI Agents with MERN • React • Node.js • MongoDB • Next.js • OpenAI Agents SDK</h3>
 
 <p align="center">
   <img alt="Coding" style="border-radius:16px;" src="./background.png" width="600">
@@ -25,16 +22,58 @@
   </a>
 </p>
 
-**Contact Details**  
-📞 +92-316-0010801  
-📧 muhammadhamidr92@gmail.com  
-📍 Kharadar, Karachi, Pakistan  
-
 ---
 
 ## 🌟 About Me
 
-I am a proficient MERN stack developer with a strong passion for building innovative and scalable web applications. Skilled in MongoDB, Express.js, React.js, and Node.js, I specialize in developing dynamic user interfaces and implementing robust back-end solutions. With a meticulous approach to clean and efficient code, I thrive on solving complex technical challenges. Constantly staying ahead of industry trends, I am committed to delivering high-quality digital experiences and contributing to the success of forward-thinking projects.
+- 🚀 Building **sleek, scalable web apps** and **intelligent AI agents** with clean code & modern tools.
+- 💡 Curious about **new tech**, solving real-world problems with AI and web solutions.
+- 💻 Currently working with **React, Node.js, Firebase, OpenAI Agents SDK**.
+- 🤝 Open to **collaborations** on web apps, APIs, real-time systems, or AI-driven projects.
+- 📧 Reach me at: **muhammadhamidr92@gmail.com**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Frontend Wizardry
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
+
+### 🖥️ Backend & Database Mastery
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+### 🔗 Real-Time, APIs & AI
+<p align="center">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhamidraza&show_icons=true&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamidraza&theme=radical&hide_border=true" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamidraza&layout=compact&theme=radical&hide_border=true" width="400"/>
+</p>
 
 ---
 
@@ -54,71 +93,38 @@ Raza Foundation School, Karachi
 
 ---
 
-## 🛠️ Skills
-
-- MongoDB  
-- Express.js  
-- React.js  
-- Node.js  
-- Next.js  
-- Firebase  
-- Amazon Web Services (AWS S3)  
-- Stripe  
-- Socket.io (Front-Backend)  
-- RESTful APIs  
-- Responsive Web Design  
-- Advanced JavaScript  
-- Google Sign-In Authentication  
-- Google Maps Services  
-
----
-
 ## 💼 Experience
 
 **Sid Techno**  
-**MERN Stack Developer**  
+**MERN Stack & Agentic AI Developer**  
 2024 - Present  
-As a skilled MERN Stack Developer, I have designed, developed, and maintained dynamic web applications using MongoDB, Express.js, React.js, and Node.js. My expertise includes building RESTful APIs, developing interactive front-end components, and ensuring seamless integration between backend and frontend systems.
+Designed, developed, and maintained dynamic web applications and intelligent AI agents using MongoDB, Express.js, React.js, Node.js, and the OpenAI Agents SDK. Specialized in building RESTful APIs, interactive front-end components, and AI-driven automation tools for enhanced user engagement.
 
-**Key Achievements and Responsibilities:**  
-- Developed and optimized scalable, high-performance web applications.  
-- Implemented Firebase Realtime Database for real-time data synchronization.  
-- Integrated Firebase Push Notifications for mobile user engagement.  
-- Designed and built a full-fledged live chat web application with Socket.io, handling both front-end and back-end development.  
-- Utilized AWS S3 for efficient image storage and management.  
+- Developed scalable web applications with AI integrations for task automation.  
+- Utilized OpenAI Agents SDK to create intelligent agents for content generation and user interaction workflows.  
+- Implemented prompt engineering to optimize AI model outputs.  
+- Built a live chat application with Socket.io, enhanced with AI-driven chatbots.  
+- Integrated Firebase Realtime Database and Push Notifications for real-time functionality.  
+- Utilized AWS S3 for image storage and management.  
 - Implemented Google Sign-In authentication using Next.js.  
-- Integrated Google Maps services for enhanced location-based functionalities.  
-- Developed fully responsive websites, ensuring seamless user experiences across various devices.  
-- Collaborated with cross-functional teams to enhance system performance and usability.  
+- Integrated Google Maps services for location-based features.  
+- Developed responsive websites for seamless cross-device experiences.  
+- Collaborated with teams to enhance performance and usability.  
 
 **Sid Techno**  
 **MERN Stack Internship**  
 Dec 2023 - Feb 2024  
-Successfully completed a dynamic 3-month internship in MERN stack development, working on diverse projects and gaining hands-on experience in both front-end and back-end development. Contributed to building responsive and user-friendly web applications while collaborating with a talented team.
+Completed a 3-month internship in MERN stack development, gaining hands-on experience in full-stack web development and contributing to responsive, user-friendly applications.
 
-**Key Responsibilities:**  
-- Worked extensively with JavaScript, HTML, CSS, and modern frameworks.  
-- Gained practical experience in Node.js for backend development.  
+- Worked with JavaScript, HTML, CSS, and modern frameworks.  
+- Gained expertise in Node.js for backend development.  
 - Explored Angular basics to enhance front-end skills.  
-- Focused on optimizing fully responsive websites for seamless user experiences.  
-- Strengthened technical expertise in database management and web development environments.  
+- Optimized responsive websites for seamless user experiences.  
+- Strengthened skills in database management and web development.  
 
 ---
 
 ## 🏅 Certifications
 
 **Saylani Mass IT Training**  
-MERN Stack Development  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhamidraza&show_icons=true&theme=radical&hide_border=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamidraza&theme=radical&hide_border=true" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamidraza&layout=compact&theme=radical&hide_border=true" width="400"/>
-</p>
+MERN Stack Development
