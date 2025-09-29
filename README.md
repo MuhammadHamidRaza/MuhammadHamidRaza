@@ -12,20 +12,7 @@
 
 ## 🌍 Connect With Me  
 
-<p align="center">
- <a href="https://linkedin.com/in/hamid-raza-b249162a8" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-   
-  <a href="https://github.com/muhammadhamidraza" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://muhammad-hamid-raza.vercel.app" target="_blank">
-    🌐 Portfolio
-  </a>
-</p>
-
+<p align="center"> <a href="https://github.com/muhammadhamidraza" target="_blank"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://linkedin.com/in/hamid-raza-b249162a8" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://muhammad-hamid-raza.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> </p>
 ---
 
 ## 🌟 About Me  
