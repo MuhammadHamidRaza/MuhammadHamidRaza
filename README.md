@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Hello,+I'm+Muhammad+Hamid+Raza!;Agentic+AI+%26+MERN+Stack+Developer;AI Automation, Workflow & Spec-Driven Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Hello,+I'm+Muhammad+Hamid+Raza!;Agentic+AI+and+MERN+Stack+Developer;AI+Automation,+Workflow+and+Spec-Driven+Apps" alt="Typing SVG" />
 </p>
+
 
 <h3 align="center">🚀 Building Intelligent, Scalable Web Apps & AI Agents | MERN • Next.js • OpenAI Agents SDK</h3>
 
