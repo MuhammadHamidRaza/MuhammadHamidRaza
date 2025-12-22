@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Hello,+I'm+Muhammad+Hamid+Raza!;Agentic+AI+%26+MERN+Stack+Developer;Building+Intelligent+and+Scalable+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Hello,+I'm+Muhammad+Hamid+Raza!;Agentic+AI+%26+MERN+Stack+Developer;AI Automation, Workflow & Spec-Driven Apps" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Crafting Scalable Web Apps & AI Agents | MERN • Next.js • OpenAI Agents SDK</h3>
+<h3 align="center">🚀 Building Intelligent, Scalable Web Apps & AI Agents | MERN • Next.js • OpenAI Agents SDK</h3>
 
 <p align="center">
   <img alt="Coding" style="border-radius:16px;" src="./background.png" width="600">
@@ -12,15 +12,26 @@
 
 ## 🌍 Connect With Me  
 
-<p align="center"> <a href="https://github.com/muhammadhamidraza" target="_blank"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://linkedin.com/in/hamid-raza-b249162a8" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://muhammad-hamid-raza.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> </p>
+<p align="center"> 
+  <a href="https://github.com/muhammadhamidraza" target="_blank"> 
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
+  </a> 
+  <a href="https://linkedin.com/in/hamid-raza-b249162a8" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a> 
+  <a href="https://muhammad-hamid-raza.vercel.app" target="_blank"> 
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> 
+  </a> 
+</p>
+
 ---
 
 ## 🌟 About Me  
 
-- 🚀 Passionate **Agentic AI & MERN Stack Developer** with 2+ years of experience.  
-- 💡 Skilled in building **intelligent AI agents** with the **OpenAI Agent SDK** and integrating them with scalable MERN apps.  
-- 💻 Currently working as a **MERN Stack Developer at Sid Techno**.  
-- 🤝 Open to **collaborations** on AI-powered products, full-stack web apps, APIs, and real-time systems.  
+- 🚀 Passionate **Agentic AI & Full-Stack Developer** with 2+ years of professional experience.  
+- 💡 Skilled in building **AI-powered agents** using **OpenAI Agent SDK**, integrating **n8n workflows**, **MCP**, **Prompt & Context Engineering**, and **Spec-Driven Development** with full-stack MERN apps.  
+- 💻 Currently working as **MERN Stack & Agentic AI Developer at Sid Techno**.  
+- 🤝 Open to collaborations on **AI automation, intelligent web apps, workflow solutions, APIs, and real-time systems**.  
 - 📧 Reach me at: **muhammadhamidr92@gmail.com**  
 
 ---
@@ -43,6 +54,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ### 🔗 Real-Time, APIs & AI  
@@ -61,25 +74,24 @@
 **Sid Techno**  
 **MERN Stack & Agentic AI Developer**  
 Mar 2024 – Present  
-- Designed and maintained scalable web apps using **React, Next.js, Node.js, Express, MongoDB**.  
-- Built **AI-powered agents** with **OpenAI Agent SDK** for workflow automation and content generation.  
-- Created a **live chat system with Socket.io** and integrated AI chatbots.  
-- Implemented **Google Sign-In**, **Firebase Push Notifications**, and **Google Maps services**.  
-- Developed responsive UI/UX across devices with **Tailwind CSS & Material-UI**.  
+- Designed **scalable full-stack apps** using React, Next.js, Node.js, Express, MongoDB, and PostgreSQL.  
+- Built **AI-powered agents** with **OpenAI Agent SDK**, integrating **n8n workflows**, **MCP**, and **Prompt Engineering** for automation and intelligent decision-making.  
+- Developed **real-time systems** using Socket.io and WebSocket APIs.  
+- Implemented authentication (JWT, OAuth, Firebase Auth), Stripe payments, Google Maps, and push notifications.  
+- Created responsive UI/UX using Tailwind CSS, Material-UI, and Bootstrap.  
 
 **Sid Techno**  
 **MERN Stack Intern**  
 Dec 2023 – Feb 2024  
-- Contributed to responsive, user-friendly applications.  
-- Worked with **JavaScript, HTML, CSS, React, Node.js, Express**.  
-- Learned and applied database design principles with MongoDB.  
+- Assisted in building responsive web apps with React, Node.js, Express, and MongoDB.  
+- Contributed to API integration, frontend design, and database management.  
 
 ---
 
 ## 🏅 Certifications  
 
 - **Saylani Mass IT Training** – MERN Stack Development  
-- **Panaversity** – OpenAI Agent SDK (Python), MERN Stack, n8n Workflow Automation  
+- **Panaversity (PIAIC / Panaverse DAO)** – OpenAI Agent SDK, n8n Workflow Automation, Prompt Engineering, Spec-Driven Development  
 
 ---
 
